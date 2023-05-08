@@ -9,6 +9,10 @@ function About() {
           <p>
             "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD"
           </p>
+          <p>
+            "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD"
+          </p>
+    
         </div>
       </div>
       <div className="about-nike-part">
