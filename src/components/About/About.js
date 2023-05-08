@@ -10,7 +10,7 @@ function About() {
             "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD"
           </p>
           <p>
-            "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD"
+            "23145"
           </p>
     
         </div>
